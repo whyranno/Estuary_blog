@@ -5,4 +5,6 @@
 import requests
 
 # pokemon stats
-url =[stats] (https://uniteapi.dev/api/pokemon-stats)
+url =[stats][def]
+
+[def]: https://uniteapi.dev/api/pokemon-stats
